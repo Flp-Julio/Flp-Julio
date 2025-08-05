@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá! Me chamo Felipe!
 
-<!--
-**Flp-Julio/Flp-Julio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Trabalhando com Ofensive Security
+- 🚀 Associando meu trabalho com técnicas de AppSec e DevSecOps
+- 🌱 Aprendendo e explorando Cyber Threat Intelligence
 
-Here are some ideas to get you started:
+Atualmente possuo mais de 12 anos de experiência em Segurança da Informação e apesar de não atualizar o Github com frequência pode descobrir mais sobre mim através do meu perfil no LinkedIn. :point_right: [Felipe Julio](https://www.linkedin.com/in/felipe-julio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Algumas de minhas certificações</summary>
+  <br>
+
+* Certified AppSec Practitioner (CAP)
+* Ethical Hacking Foundation
+* Scrum Foundation Professional Certificate
+* ITIL Foundation
+* ISO 27002
