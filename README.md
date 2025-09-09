@@ -1,7 +1,7 @@
 ## 👋 Olá! Me chamo Felipe!
 
-- 💻 Trabalhando com Analista de Segurança Red Team
-- 🚀 Associando meu trabalho com técnicas de AppSec e DevSecOps
+- 💻 Trabalho como Analista de Segurança Red Team
+- 🚀 Associo meu trabalho com técnicas de AppSec e DevSecOps
 
 Atualmente possuo mais de 12 anos de experiência em Segurança da Informação e apesar de não atualizar o Github com frequência, pode-se descobrir mais sobre mim através do meu perfil no LinkedIn. :point_right: [Felipe Julio](https://www.linkedin.com/in/felipe-julio)
 
